@@ -1,4 +1,8 @@
-# Comunidades y conferencias de tecnología en México
+# Comunidades y conferencias de tecnología
+
+Este repositorio reúne comunidades y conferencias alrededor de la tecnología en México.
+
+Es un recurso adicional al artículo [Comunidades, conferencias y mis pláticas sobre tecnología en 2024](https://rabade.net/posts/tecnologia/comunidades-conferencias-y-mis-platicas-sobre-tecnologia-en-2024/), donde reflexiono sobre mi experiencia participando en estos espacios, entre otras cosas.
 
 ## Comunidades
 
