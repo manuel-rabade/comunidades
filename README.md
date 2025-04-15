@@ -7,7 +7,7 @@ Es un recurso adicional al artículo [Comunidades, conferencias y mis pláticas 
 ## Comunidades
 
 | Comunidad | Tipo | Última reunión | Información adicional |
-| ----------|-------|----------------|-----------------------|
+| ----------|------|----------------|-----------------------|
 | [Ajolotes en la Nube](https://www.meetup.com/ajolotesenlanube/) | Presencial CDMX | Abril 2025 | |
 | [Elastic Latin America Virtual](https://www.meetup.com/elastic-latam-virtual/) | Virtual | Febrero 2025 | |
 | [GLUCH: Grupo Linux Chihuahua](https://www.facebook.com/groups/219085400136/) | Presencial Chihuahua | Marzo 2025 | |
@@ -27,9 +27,11 @@ Es un recurso adicional al artículo [Comunidades, conferencias y mis pláticas 
 
 ### Inactivas
 
-| [Google Developer Group Cloud Mexico City](https://gdg.community.dev/gdg-cloud-mexico-city/) | Presencial CDMX | Junio 2024 | *** |
-| [Grupo de Usuarios de PostgreSQL México](https://www.meetup.com/postgresql-mexico/) | Presencial CDMX | Mayo 2024 | |
-| [PHP México](https://www.meetup.com/es-ES/PHP-The-Right-Way/) | Presencial CDMX | Noviembre 2022 | |
+| Comunidad | Tipo | Última reunión |
+| ----------|------|----------------|
+| [Google Developer Group Cloud Mexico City](https://gdg.community.dev/gdg-cloud-mexico-city/) | Presencial CDMX | Junio 2024 |
+| [Grupo de Usuarios de PostgreSQL México](https://www.meetup.com/postgresql-mexico/) | Presencial CDMX | Mayo 2024 |
+| [PHP México](https://www.meetup.com/es-ES/PHP-The-Right-Way/) | Presencial CDMX | Noviembre 2022 |
 
 ## Eventos
 
