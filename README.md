@@ -8,20 +8,20 @@ Es un recurso adicional al artículo [Comunidades, conferencias y mis pláticas 
 
 | Comunidad | Tipo | Última reunión | Información adicional |
 | ----------|------|----------------|-----------------------|
-| [Ajolotes en la Nube](https://www.meetup.com/ajolotesenlanube/) | Presencial CDMX | Abril 2025 | |
+| [Ajolotes en la Nube](https://www.meetup.com/ajolotesenlanube/) | Presencial CDMX | Mayo 2025 | |
 | [Elastic Latin America Virtual](https://www.meetup.com/elastic-latam-virtual/) | Virtual | Febrero 2025 | |
-| [GLUCH: Grupo Linux Chihuahua](https://www.facebook.com/groups/219085400136/) | Presencial Chihuahua | Marzo 2025 | |
+| [GLUCH: Grupo Linux Chihuahua](https://www.facebook.com/groups/219085400136/) | Presencial Chihuahua | Mayo 2025 | |
 | [Google Developer Group CDMX](https://gdg.community.dev/gdg-cdmx/) | Presencial CDMX | Abril 2025 | |
 | [Grupo de Usuarios de MongoDB de México](https://www.meetup.com/mexico-mongodb-user-group/) | Presencial CDMX | Febrero 2025 | |
-| [Infra Day]() | Presencial CDMX | Abril 2025 | |
+| [Infra Day](mailto:infraday@pimienta.org) | Presencial CDMX | Abril 2025 | |
 | [Java México](https://www.meetup.com/jvm-mx/) | Virtual y presencial CDMX | Abril 2025 | |
 | [Kernel Panic Room](https://kernelpanic.lol) | Virtual y presencial Querétaro | No aplica | Canal `#kpr` de [libera.chat](https://libera.chat), [canal de Telegram](https://t.me/kprftw) |
-| [Laboratorio de Investigación y Desarrollo de Software Libre](https://lidsol.org/) | Presencial CDMX | Noviembre 2024 | Facultad de Ingeniería de la UNAM |
-| [México City Apache Kafka](https://www.meetup.com/mexico-kafka/) | Presencial CDMX | Marzo 2025 | |
-| [NoTrustSec](https://www.meetup.com/NoTrustSec/) | Presencial CDMX | Marzo 2025 | |
-| [Python México](https://www.meetup.com/python-mexico/) | Virtual y presencial CDMX | Abril 2025 | [Canal de Telegram](https://t.me/PythonCDMX) |
-| [Scala and Functional Programming CDMX and remote](https://www.meetup.com/scala-and-functional-programming-cdmx-and-remote/) | Presencial CDMX | Diciembre 2024 | |
-| [Sudo FCiencias](https://github.com/Sudo-FCiencias) | Prescencial CDMX | Enero 2025 | Facultad de Ciencias de la UNAM |
+| [Laboratorio de Investigación y Desarrollo de Software Libre](https://lidsol.org/) | Presencial CDMX | Mayo 2025 | Facultad de Ingeniería de la UNAM |
+| [México City Apache Kafka](https://www.meetup.com/mexico-kafka/) | Presencial CDMX | Mayo 2025 | |
+| [NoTrustSec](https://www.meetup.com/NoTrustSec/) | Presencial CDMX | Mayo 2025 | |
+| [Python México](https://www.meetup.com/python-mexico/) | Virtual y presencial CDMX | Mayo 2025 | [Canal de Telegram](https://t.me/PythonCDMX) |
+| [Scala and Functional Programming CDMX and remote](https://www.meetup.com/scala-and-functional-programming-cdmx-and-remote/) | Presencial CDMX | Mayo 2025 | |
+| [Sudo FCiencias](https://github.com/Sudo-FCiencias) | Prescencial CDMX | Abril 2025 | Facultad de Ciencias de la UNAM |
 | [Supabase Meetup](https://lu.ma/user/usr-k4hHek3f44WucwQ) | Prescencial CDMX | Abril 2025 | |
 | [Sysarmy México](https://www.meetup.com/sysarmy-mexico/) | Presencial CDMX | Noviembre 2024 | [Canal de Telegram](https://t.me/sysarmymx) |
 
@@ -37,6 +37,7 @@ Es un recurso adicional al artículo [Comunidades, conferencias y mis pláticas 
 
 | Conferencía o evento | Lugar | Última edición | Próxima edición | Información adicional |
 |----------------------|-------|----------------|-----------------|-----------------------|
+| [AWS Community Day](https://day.awscommunity.mx/) | CDMX | 2024 | 14 de junio de 2025 | |
 | [BSides CDMX](https://bsidescdmx.org) | CDMX | 2024 | 18 de julio de 2025 | CFP hasta el 16 de mayo de 2025 |
 | [BugCon](https://www.bugcon.org) | CDMX | 2024 | 20 y 21 de noviembre de 2025 | CFP hasta el 30 de agosto de 2025 |
 | [Cumbre de Contribuidores de Open Source Software](https://ccoss.org/) | Guadalajara | 2024 | | |
